@@ -1,0 +1,4 @@
+{"name":"Team2","users":[{"id":"RBysUYUqc95zdTBm","perm":"nEdit"},{"id":"gXJiltdPxoZn21Ye","perm":"Editar"}],"_id":"AgTxlBni9KaXS1wI"}
+{"name":"Team3","users":[{"id":"RBysUYUqc95zdTBm","perm":"nEdit"},{"id":"gXJiltdPxoZn21Ye","perm":"Edit"}],"_id":"P2FOQbVLrJdIriJV"}
+{"name":"Team","users":[{"id":"RBysUYUqc95zdTBm","perm":"nEdit"},{"id":"gXJiltdPxoZn21Ye","perm":"Editar"}],"_id":"rE1z3mCWbfdiLZoy"}
+{"name":"Team4","users":[{"id":"RBysUYUqc95zdTBm","perm":"Admin"},{"id":"gXJiltdPxoZn21Ye","perm":"Edit"}],"_id":"xcNU2h1ag8wd5GWG"}

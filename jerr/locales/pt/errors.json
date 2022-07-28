@@ -1,0 +1,6 @@
+{
+    "invalidEmail": "Email Inválido",
+    "passNotMatch": "Password não confere",
+    "invalidPhoneNumber": "Número de telefone inválido inicia por 9 e tem 9 digitos"
+
+}

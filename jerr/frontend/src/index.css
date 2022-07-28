@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "Greycliff CF";
+  font-weight: bold;
+  src: local("GreycliffCF-Bold.woff2"),
+    url("./fonts/GreycliffCF-Bold.woff2");
+}
+
+@font-face {
+  font-family: "Greycliff CF";
+  font-weight: bolder;
+  src: local("GreycliffCF-Heavy.woff2"),
+    url("./fonts/GreycliffCF-Heavy.woff2");
+}

@@ -1,0 +1,125 @@
+{
+	"signIn": "Iniciar Sessão",
+	"email": "Email",
+	"password": "Palavra-passe",
+	"confirmPassword": "Confirmar Palavra-passe",
+	"forgotPassword": "Esqueci-me da palavra-passe",
+	"noAccount": "Não tem uma conta",
+	"login": "Iniciar sessão",
+	"register": "Registar",
+
+	"success": "Ação realizada com sucesso ✅",
+	"emailMessage": "Verifique o seu email para continuar! 📩🤔",
+	"fullName": "Nome completo",
+	"username": "Nome de utilizador",
+	"phoneNumber": "Número de telefone",
+	"acceptTerms": "Aceito os termos de utilização",
+	"alreadyHaveAccount": "Já tem uma conta?",
+
+	"infoRecoverAccount": "Para recuperar a sua conta necessitamos de algumas informações!",
+	"recoverPassword": "Recuperar palavra-passe",
+
+	"pageNotFound": "Página não encontrada",
+	"backHome": "Voltar à página inicial",
+
+	"selectImage": "Selecionar imagem",
+	"confirm": "Confirmar",
+	"back": "Voltar",
+	"deleteProfile": "Eliminar perfil",
+	"deleteAccount": "Eliminar conta",
+	"noDeleteAccount": "Não eliminar conta",
+	"deleteAccountMessage": "Tem a certeza que quer eliminar a sua conta? Não poderá voltar atrás!",
+	"myAccount": "Minha conta",
+	"changeAvatar": "Alterar Imagem",
+	"save": "Guardar",
+	"edit": "Editar",
+	"name": "Nome",
+	"cancel": "Cancelar",
+	"changePassword": "Alterar palavra-passe",
+
+	"projectCreated": "Projeto criado com sucesso!",
+	"projectUpdated": "Projeto atualizado com sucesso!",
+	"projectDeleted": "Projeto eliminado com sucesso!",
+	"projectNotFound": "Projeto não encontrado",
+	"projectNotFoundMessage": "O projeto que está a tentar aceder não existe ou foi eliminado!",
+	"messageProjectCreated": "O projeto foi criado com sucesso!",
+	"createProjectTitle": "Criar projeto",
+	"projectName": "Nome do projeto",
+	"projectDescription": "Descrição do projeto",
+
+	"uploadPhoto": "Carregar fotografia",
+
+	"dragDropSelectImage": "Arraste e solte uma imagem ou selecione uma imagem",
+	"dragDropSelectImageHint": "Podes arrastar e soltar uma imagem ou selecionar uma imagem, não excedas o tamanho máximo de 5MB",
+
+	"user": "Utilizador",
+	"notifications": "Notificações",
+	"billing": "Faturação",
+	"security": "Segurança",
+	"changeAccount": "Alterar conta",
+	"logout": "Sair",
+
+	"manager": "Gestor",
+	"collaborator": "Colaborador",
+	"contractor": "Contratante",
+	"developer": "Desenvolvedor",
+
+	"confAccount": "Confirmar Conta",
+	"welcomeJERR": "Bem-Vindo à Plataforma JERR",
+	"wereExcitedFirst": "Obrigado pela preferência. Primeiro precisa de confirmar a criação da conta através do botão abaixo.",
+	"ifLinkFail": "If that doesn&apos;t work, copy and paste the following link in your browser:",
+
+	"insertMember": "Inserir membro",
+	"member": "Membro",
+	"members": "Membros",
+	"actions": "Ações",
+	"function": "Função",
+
+	"teamCreated": "Equipa criada com sucesso!",
+	"teamUpdated": "Equipa atualizado com sucesso!",
+	"teamDeleted": "Equipa eliminado com sucesso!",
+	"teamNotFound": "Equipa não encontrado",
+	"teamNotFoundMessage": "O equipa que está a tentar aceder não existe ou foi eliminado!",
+	"messageteamCreated": "O equipa foi criado com sucesso!",
+	"createTeamTitle": "Criar equipa",
+	"createTeamButton": "Criar equipa",
+	"teamName": "Nome da equipa",
+
+	"listTeams": "Lista de equipas",
+	"searchTeam": "Pesquise o nome da equipa ...",
+
+	"searchProject": "Pesquise o nome do projeto ...",
+	"listProject": "Lista de projetos",
+
+	"createSprint": "Criar Sprint",
+	"sprintCreated": "Sprint criado com sucesso!",
+	"messagesprintCreated": "O Sprint foi criado com sucesso!",
+	"sprintName": "Nome do Sprint",
+	"dateStart": "Data de início",
+	"dateEnd": "Data de término",
+	"pickDate": "Selecione a data",
+	"updating": "Atualizando ...",
+
+	"memberAlreadyAdded": "Membro já adicionado",
+	"memberAlreadyAddedBody": "O membro que está a tentar adicionar já está na equipa!",
+	"ownerAlreadyAdded": "O proprietário já está na equipa",
+	"ownerAlreadyAddedBody": "O proprietário já está na equipa e é considerado administrador!",
+
+	"deletedAccount": "Conta eliminada com sucesso!",
+	"deletedAccountMessage": "A sua conta foi eliminada com sucesso!",
+	"errorDeleteAccount": "Erro ao eliminar conta",
+	"errorDeleteAccountMessage": "Ocorreu um erro ao eliminar a sua conta, tente novamente!",
+
+	"accountConfirmed": "Conta confirmada com sucesso!",
+	"accountConfirmedMessage": "A sua conta foi confirmada com sucesso!",
+
+	"errorConfirmAccount": "Erro ao confirmar conta",
+	"errorConfirmAccountMessage": "Ocorreu um erro ao confirmar a sua conta, tente novamente!",
+
+	"newPassword": "Nova palavra-passe",
+	"resetPassword": "Recuperar palavra-passe",
+	"confirmNewPassword": "Confirmar nova palavra-passe",
+
+	"concludeSprint": "Terminar Sprint",
+	"terminateSprint": "Sprint Terminado"
+}
