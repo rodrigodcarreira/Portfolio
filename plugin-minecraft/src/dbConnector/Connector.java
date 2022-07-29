@@ -1,19 +1,15 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package dbConnector;
 
+import Classes.User;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.sql.Statement;
-import java.util.logging.Level;
-import java.util.logging.Logger;
+import java.sql.ResultSet;
 
 /**
  *
- * @author tatia
+ * @author rodrigodcarreira
  */
 public class Connector {
 
@@ -28,14 +24,20 @@ public class Connector {
         }
     }
 
-    public void registUser(String name) {
+    public User registUser(String name) {
         try {
             Statement stm = conn.createStatement();
-            stm.execute("INSERT INTO users VALUES ('" + name + "', 0)");
-            
-            conn.close();
+            ResultSet result = stm.executeQuery("SELECT * FROM users WHERE name like '" + name + "';");
+            while (result.next()) {
+                return new User(result.getInt("id"), name, result.getInt("coins"), false);
+            }
+            stm.close();
+            stm = conn.createStatement();
+            stm.execute("INSERT INTO users(name, coins) VALUES ('" + name + "', 0);");
+            return new User(0, name, 0, true);
         } catch (SQLException ex) {
             ex.printStackTrace();
+            return null;
         }
     }
 

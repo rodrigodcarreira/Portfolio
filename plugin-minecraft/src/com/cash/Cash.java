@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
 package com.cash;
 
 import com.cash.events.Events;
@@ -9,7 +5,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 /**
  *
- * @author Rodrigo Carreira
+ * @author rodrigodcarreira
  */
 public class Cash extends JavaPlugin{
 
