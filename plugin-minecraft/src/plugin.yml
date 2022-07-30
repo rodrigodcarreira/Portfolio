@@ -3,3 +3,7 @@ version: 0.1a
 author: rodrigodcarreira
 main: com.cash.Cash
 api-version: 1.19
+commands:
+    market:
+        description: Open Market
+        usage: /<command>
